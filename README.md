@@ -22,9 +22,9 @@ Here are a few projects I have done:
 
 | Project | Description | Tech Stack |
 |--------|-------------|-----------|
-| Machine Learning Projet PLACEHOLDER | A brief one-line description of the project. | React, Node.js |
-| JobbGaurd: ML-Powered Fake Job Ad Dectector PLACEHOLDER| Quick summary of what it does. | Python, TensorFlow |
-| NLP-Based Emotion Detection From Reddit Post PLACEHOLDER| Short explanation of functionality. | Swift, SwiftUI |
+| HouseMates Application |Developed a collaborative household management iOS app for organizing chores, expenses, and events in real time. | Swift, SwiftUI, Firebase, MVVM, Combine |
+| Terplanner | Built a full-stack study scheduling and productivity platform enabling students to plan, track, and manage study sessions efficiently. | Python, FastAPI, React, TypeScript, TailwindCSS, PostgreSQL, Docker |
+| JobGaurd | SCreated an AI-powered web tool to detect and flag fraudulent job postings using natural language processing and machine learning. | Python, NLP, scikit-learn, Streamlit |
 
 > ✨ *More projects coming soon—check back for updates!*
 
