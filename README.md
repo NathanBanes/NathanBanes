@@ -1,6 +1,6 @@
 # ⭐About Me:
 
-My name is Nathan and I attend the University of Maryland studing Information Science on the Data Science track. I am passionate about Software Engineering, Software Developement, AI, and Machine Learning!
+Hey, my name is Nathan and I attend the University of Maryland studing Information Science on the Data Science track. I am passionate about Software Engineering, Software Developement, AI, and Machine Learning!
 
 ---
 
