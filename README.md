@@ -22,7 +22,7 @@ Here are a few projects I have done:
 
 | Project | Description | Tech Stack |
 |--------|-------------|-----------|
-| HouseMates Application |Developed a collaborative household management iOS app for organizing chores, expenses, and events in real time. | Swift, SwiftUI, Firebase, MVVM, Combine |
+| MatchaCV | Built a full-stack resume ATS optimization platform that analyzes resumes against job descriptions, computes compatibility scores, and delivers AI-powered improvement suggestions using Node.js/Express, PostgreSQL, Redis (Bull) for async processing, AWS S3 for file storage, Socket.IO for real-time updates, and OpenAI | HTML5, CSS3, JavaScript, Node.js, Express.js, PostgreSQL, Redis (Bull), AWS S3, Socket.IO, OpenAI API |
 | Terplanner | Built a full-stack study scheduling and productivity platform enabling students to plan, track, and manage study sessions efficiently. | Python, FastAPI, React, TypeScript, TailwindCSS, PostgreSQL, Docker |
 | JobGaurd | SCreated an AI-powered web tool to detect and flag fraudulent job postings using natural language processing and machine learning. | Python, NLP, scikit-learn, Streamlit |
 
