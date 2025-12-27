@@ -2,6 +2,10 @@
 
 Hey, my name is Nathan and I attend the University of Maryland studing Information Science on the Data Science track. I am passionate about Software Engineering, Software Developement, AI, and Machine Learning!
 
+Previously with:
+• Software Engineer Intern @ HouseMates
+• Software Engineer Intern @ HealthCare Bytes Solutions
+
 ---
 
 ## 🌐 Connect with Me
